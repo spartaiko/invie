@@ -459,6 +459,15 @@ input:focus, textarea:focus {
   .col1 {
     margin: 0;
   }
+  
+  .sexo label {
+    display: block;
+  }
+
+  input[type="text"] {
+    margin-bottom: 30px;
+  }
+
   input[type="text"], input[type="email"] {
     padding: 5px;
     font-size: 16px;
